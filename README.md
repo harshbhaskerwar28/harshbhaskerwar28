@@ -13,7 +13,7 @@ I'm a passionate AI enthusiast currently pursuing my B.Tech in Computer Science 
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 #### Tools & Technologies
-![Canva](https://skillicons.dev/icons?i=canva) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
 
 ### Currently Learning
 I'm currently expanding my knowledge in AI and Data Science, diving deeper into advanced machine learning algorithms, natural language processing, and computer vision.
