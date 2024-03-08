@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI&DS
 - 💞️ I’m looking to collaborate on AI projects
 
-<!---
-harshbhaskerwar28/harshbhaskerwar28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+<img src="https://skillicons.dev/icons?i=c,python,java,c,cpp,r,html,css,javascript,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=canva,figma,git,github,vscode,git,github,photoshop" /><br>
