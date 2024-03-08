@@ -28,3 +28,5 @@ I'm currently expanding my knowledge in AI and Data Science, diving deeper into 
 I'm open to collaborating on exciting AI projects. Feel free to reach out to me via [email](mailto:9849475949harsh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-bhaskerwar-2bb156258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Let's innovate and create together! 🚀
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
