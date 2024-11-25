@@ -18,6 +18,8 @@ I'm a passionate AI enthusiast currently pursuing my B.Tech in Computer Science 
 ### Currently Learning
 I'm currently expanding my knowledge in AI and Data Science, diving deeper into advanced machine learning algorithms, natural language processing, and computer vision.
 
+![GIF](https://github.com/harshbhaskerwar28/harshbhaskerwar28/blob/output/snake.svg)
+
 ### Projects
 
 - Object Recognition API 
